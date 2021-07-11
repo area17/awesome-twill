@@ -38,6 +38,16 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 * [Twill Image](https://github.com/croustille-io/twill-image) - Leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images
 
+##### Data Transformation
+
+* [Twill Transformers](https://github.com/area17/twill-transformers) - A base Transformer class and a series of traits to generate view data for your Twill app
+
+##### Capsules
+
+* [Twill Capsules Base](https://github.com/area17/twill-capsule-base) - A series of opinionated base classes and helpers for faster application bootstrapping using Twill and Capsules
+* [Homepages Capsule](https://github.com/area17/twill-capsule-homepages) - A Twill Capsule to create a Home page for your website
+* [Cities Capsule](https://github.com/area17/twill-capsule-cities) - A Twill Capsule to help you manage a list of Cities
+
 ## Contributing
 
 Found an awesome package, blog, course or video? Send me a pull request!
