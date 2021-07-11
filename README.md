@@ -49,6 +49,10 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Homepages Capsule](https://github.com/area17/twill-capsule-homepages) - A Twill Capsule to create a Home page for your website
 * [Cities Capsule](https://github.com/area17/twill-capsule-cities) - A Twill Capsule to help you manage a list of Cities
 
+##### Metadata & SEO
+
+* [Twill Metadata](https://github.com/cwsdigital/twill-metadata) - A simple way to add editable SEO metadata to your twill models
+
 ## Contributing
 
 Found an awesome package, blog, course or video? Send me a pull request!
