@@ -8,6 +8,9 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 - [Essentials](#essentials)
 - [Community](#community)
+- [Tutorials](#tutorials)
+- [Starter Projects](#starter-projects)
+- [Packages](#packages)
 
 ## Essentials
 
@@ -19,6 +22,21 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Discord](https://discord.link/twill)
 * [GitHub Discussions](https://github.com/area17/twill/discussions)
 * [Spectrum](https://spectrum.chat/twill) - *No longer actively monitored, in favor of GitHub Discussions and Discord*
+
+## Tutorials
+
+* [Made with Twill Video Tutorials](https://twill.io/tutorials)
+* [Made with Twill Source Code](https://github.com/area17/made-with-twill-tutorials)
+
+## Starter Projects
+
+* [Twill Boilerplate](https://github.com/croustille-io/twill-boilerplate)
+
+## Packages
+
+##### Image Processing
+
+* [Twill Image](https://github.com/croustille-io/twill-image) - Leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images
 
 ## Contributing
 
