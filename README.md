@@ -25,8 +25,14 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ## Tutorials
 
+##### Videos
+
 * [Made with Twill Video Tutorials](https://twill.io/tutorials)
 * [Made with Twill Source Code](https://github.com/area17/made-with-twill-tutorials)
+
+##### Recipes
+
+* [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
 
 ## Starter Projects
 
