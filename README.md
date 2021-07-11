@@ -51,7 +51,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ##### Metadata & SEO
 
-* [Twill Metadata](https://github.com/cwsdigital/twill-metadata) - A simple way to add editable SEO metadata to your twill models
+* [Twill Metadata](https://github.com/cwsdigital/twill-metadata) - A simple way to add editable SEO metadata to your Twill models
 
 ## Contributing
 
