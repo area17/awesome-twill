@@ -27,12 +27,11 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ##### Videos
 
-* [Made with Twill Video Tutorials](https://twill.io/tutorials)
-* [Made with Twill Source Code](https://github.com/area17/made-with-twill-tutorials)
+* [Made with Twill Video Tutorials](https://twill.io/tutorials) ([Source Code](https://github.com/area17/made-with-twill-tutorials))
 
 ##### Complete Tutorials
 
-* [Step by step - Creating a Twill app](https://spectrum.chat/twill/tips-and-tricks/step-by-step-creating-a-twill-app~ac9bd7f7-d1e3-46a8-8e6f-6075d92cdac7)
+* [Step by step - Creating a Twill app](https://spectrum.chat/twill/tips-and-tricks/step-by-step-creating-a-twill-app~ac9bd7f7-d1e3-46a8-8e6f-6075d92cdac7) ([Source Code](https://github.com/sauron/my-twill-blog))
 
 ##### Recipes
 
