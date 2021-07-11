@@ -19,3 +19,19 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Discord](https://discord.link/twill)
 * [GitHub Discussions](https://github.com/area17/twill/discussions)
 * [Spectrum](https://spectrum.chat/twill) - *No longer actively monitored, in favor of GitHub Discussions and Discord*
+
+## Contributing
+
+Found an awesome package, blog, course or video? Send me a pull request!
+
+#### Guidelines
+
+* Please make an individual pull request for each suggestion
+* Use the following format for links: \[Resource\]\(URL\) - Optional description
+* New categories or improvements to the existing categorization are welcome
+
+## License
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+Awesome Twill is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
