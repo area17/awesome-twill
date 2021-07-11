@@ -36,6 +36,8 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 ##### Recipes
 
 * [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
+* [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
+* [Adding a custom block to Twill Admin View with VueJS](https://spectrum.chat/twill/tips-and-tricks/adding-a-custom-block-to-twill-admin-view-with-vuejs~028d79b1-b3cd-4fb7-a89c-ce64af7be4af)
 
 ## Starter Projects
 
