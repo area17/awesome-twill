@@ -31,6 +31,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 ## Starter Projects
 
 * [Twill Boilerplate](https://github.com/croustille-io/twill-boilerplate)
+* [CWS Twill Base Project](https://github.com/cwsdigital/cws-twill-base)
 
 ## Packages
 
