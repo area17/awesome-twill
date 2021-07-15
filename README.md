@@ -83,6 +83,7 @@ Found an awesome package, blog, course or video? Send me a pull request!
 * Please make an individual pull request for each suggestion
 * Use the following format for links: \[Resource\]\(URL\) - Optional description
 * New categories or improvements to the existing categorization are welcome
+* Resources must be Twill-specific. If a Laravel package is helpful in the context of Twill, write a tutorial about it! :)
 
 ## License
 
