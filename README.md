@@ -25,51 +25,51 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ## Tutorials
 
-##### Videos
+#### Videos
 
 * [Made with Twill Video Tutorials](https://twill.io/tutorials) ([Source Code](https://github.com/area17/made-with-twill-tutorials))
 
-##### Complete Tutorials
+#### Complete Tutorials
 
 * [Step by step - Creating a Twill app](https://spectrum.chat/twill/tips-and-tricks/step-by-step-creating-a-twill-app~ac9bd7f7-d1e3-46a8-8e6f-6075d92cdac7) ([Source Code](https://github.com/sauron/my-twill-blog))
 
-##### Recipes
+#### Recipes
 
+* [Adding a custom block to Twill Admin View with VueJS](https://spectrum.chat/twill/tips-and-tricks/adding-a-custom-block-to-twill-admin-view-with-vuejs~028d79b1-b3cd-4fb7-a89c-ce64af7be4af)
+* [Enable hierarchical/nested sorting on a Twill module](https://gist.github.com/chrispymm/255b680f4c792c6fc4781d3cc2ee6a67)
+* [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
 * [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
 * [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
-* [Adding a custom block to Twill Admin View with VueJS](https://spectrum.chat/twill/tips-and-tricks/adding-a-custom-block-to-twill-admin-view-with-vuejs~028d79b1-b3cd-4fb7-a89c-ce64af7be4af)
-* [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
-* [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
 * [Support nested URLs for nested modules](https://gist.github.com/chrispymm/dfd6521af819deb41170282affe1e0b5)
-* [Enable hierarchical/nested sorting on a Twill module](https://gist.github.com/chrispymm/255b680f4c792c6fc4781d3cc2ee6a67)
+* [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
 
 ## Starter Projects
 
-* [Twill Boilerplate](https://github.com/croustille-io/twill-boilerplate)
 * [CWS Twill Base Project](https://github.com/cwsdigital/cws-twill-base)
+* [Twill Boilerplate](https://github.com/croustille-io/twill-boilerplate)
 
 ## Packages
 
-##### Image Processing
+#### Capsules
 
-* [Twill Image](https://github.com/croustille-io/twill-image) - Leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images
-
-##### Data Transformation
-
-* [Twill Transformers](https://github.com/area17/twill-transformers) - A base Transformer class and a series of traits to generate view data for your Twill app
-
-##### Capsules
-
-* [Twill Capsules Base](https://github.com/area17/twill-capsule-base) - A series of opinionated base classes and helpers for faster application bootstrapping using Twill and Capsules
-* [Homepages Capsule](https://github.com/area17/twill-capsule-homepages) - A Twill Capsule to create a Home page for your website
 * [Cities Capsule](https://github.com/area17/twill-capsule-cities) - A Twill Capsule to help you manage a list of Cities
+* [Homepages Capsule](https://github.com/area17/twill-capsule-homepages) - A Twill Capsule to create a Home page for your website
+* [Twill Capsules Base](https://github.com/area17/twill-capsule-base) - A series of opinionated base classes and helpers for faster application bootstrapping using Twill and Capsules
 
-##### Commands
+#### Commands
 
 * [DeleteCrop](https://gist.github.com/sauron/bcffa9f44eda6c414d71829c3d4d6b20) - Delete existing crops in database
 * [UpdateCrops](https://gist.github.com/sauron/bc713a18779207e5386ad7e83c292a3a) - Smartly update existing crops in database given a new ratio
 
-##### Metadata & SEO
+#### Data Transformation
+
+* [Twill Transformers](https://github.com/area17/twill-transformers) - A base Transformer class and a series of traits to generate view data for your Twill app
+
+#### Image Processing
+
+* [Twill Image](https://github.com/croustille-io/twill-image) - Leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images
+
+#### Metadata & SEO
 
 * [Twill Metadata](https://github.com/cwsdigital/twill-metadata) - A simple way to add editable SEO metadata to your Twill models
 
