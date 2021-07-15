@@ -64,6 +64,11 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Homepages Capsule](https://github.com/area17/twill-capsule-homepages) - A Twill Capsule to create a Home page for your website
 * [Cities Capsule](https://github.com/area17/twill-capsule-cities) - A Twill Capsule to help you manage a list of Cities
 
+##### Commands
+
+* [DeleteCrop](https://gist.github.com/sauron/bcffa9f44eda6c414d71829c3d4d6b20) - Delete existing crops in database
+* [UpdateCrops](https://gist.github.com/sauron/bc713a18779207e5386ad7e83c292a3a) - Smartly update existing crops in database given a new ratio
+
 ##### Metadata & SEO
 
 * [Twill Metadata](https://github.com/cwsdigital/twill-metadata) - A simple way to add editable SEO metadata to your Twill models
