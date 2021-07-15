@@ -42,6 +42,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
 * [Support nested URLs for nested modules](https://gist.github.com/chrispymm/dfd6521af819deb41170282affe1e0b5)
 * [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
+* [Twill vscode snippets](https://gist.github.com/ferpetrelli/58e9e95173111c126d6da3062461b930)
 
 ## Starter Projects
 
