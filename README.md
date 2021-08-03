@@ -39,6 +39,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Enable hierarchical/nested sorting on a Twill module](https://gist.github.com/chrispymm/255b680f4c792c6fc4781d3cc2ee6a67)
 * [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
 * [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
+* [Manage frontend user profiles from Twill](https://gist.github.com/pboi20/d20d23ae130ea9a112ee49dd98f00239)
 * [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
 * [Support nested URLs for nested modules](https://gist.github.com/chrispymm/dfd6521af819deb41170282affe1e0b5)
 * [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
