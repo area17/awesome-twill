@@ -36,6 +36,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 #### Recipes
 
 * [Adding a custom block to Twill Admin View with VueJS](https://spectrum.chat/twill/tips-and-tricks/adding-a-custom-block-to-twill-admin-view-with-vuejs~028d79b1-b3cd-4fb7-a89c-ce64af7be4af)
+* [Building a multilingual site with Twill and Laravel Localization](https://gist.github.com/pboivin/62b2c5b6e723ceef54aedf120154e269)
 * [Enable hierarchical/nested sorting on a Twill module](https://gist.github.com/chrispymm/255b680f4c792c6fc4781d3cc2ee6a67)
 * [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
 * [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
