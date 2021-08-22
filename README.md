@@ -31,6 +31,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 #### Complete Tutorials
 
+* [Build a CMS Stack with Laravel, Twill, Inertia, Vue 3, Vite, Tailwind](https://tech.codivores.com/series/laravel-twill-inertia) ([Source Code](https://github.com/Codivores/tutorial-laravel-twill-inertia-vue3-vite-tailwind))
 * [Step by step - Creating a Twill app](https://spectrum.chat/twill/tips-and-tricks/step-by-step-creating-a-twill-app~ac9bd7f7-d1e3-46a8-8e6f-6075d92cdac7) ([Source Code](https://github.com/sauron/my-twill-blog))
 
 #### Recipes
