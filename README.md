@@ -63,6 +63,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 #### Commands
 
+* [CreateUser](https://gist.github.com/pboivin/8029a00e0e21584bb10d20ca5a6a96f3) - Create and activate a Twill user account
 * [DeleteCrop](https://gist.github.com/sauron/bcffa9f44eda6c414d71829c3d4d6b20) - Delete existing crops in database
 * [UpdateCrops](https://gist.github.com/sauron/bc713a18779207e5386ad7e83c292a3a) - Smartly update existing crops in database given a new ratio
 
