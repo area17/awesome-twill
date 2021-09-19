@@ -44,6 +44,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
 * [Manage frontend user profiles from Twill](https://gist.github.com/pboivin/d20d23ae130ea9a112ee49dd98f00239)
 * [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
+* [Prefill a block editor from a selection of templates](https://gist.github.com/pboivin/c87f91584c454cd369b988810f6453d7)
 * [Support nested URLs for nested modules](https://gist.github.com/chrispymm/dfd6521af819deb41170282affe1e0b5)
 * [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
 * [Twill vscode snippets](https://gist.github.com/ferpetrelli/58e9e95173111c126d6da3062461b930)
