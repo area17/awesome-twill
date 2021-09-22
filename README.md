@@ -10,6 +10,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 - [Community](#community)
 - [Tutorials](#tutorials)
 - [Starter Projects](#starter-projects)
+- [Open Source Twill Projects](#open-source-twill-projects)
 - [Packages](#packages)
 
 ## Essentials
@@ -53,6 +54,10 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 * [CWS Twill Base Project](https://github.com/cwsdigital/cws-twill-base)
 * [Twill Boilerplate](https://github.com/croustille-io/twill-boilerplate)
+
+## Open Source Twill Projects
+
+* [Felix Online](https://felixonline.co.uk/) ([Source Code](https://github.com/FelixOnline/xelif)) - The student newspaper of Imperial College London
 
 ## Packages
 
