@@ -15,8 +15,9 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ## Essentials
 
-* [Twill](https://twill.io/) ([Documentation](https://twill.io/docs/))
-* [Twill API Reference](https://twill.io/docs/api/2.x/)
+* [Twill Website](https://twill.io/)
+* [Developer Documentation](https://twill.io/docs/)
+* [API Reference](https://twill.io/docs/api/2.x/)
 
 ## Community
 
