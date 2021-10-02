@@ -35,20 +35,35 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Build a CMS Stack with Laravel, Twill, Inertia, Vue 3, Vite, Tailwind](https://tech.codivores.com/series/laravel-twill-inertia) ([Source Code](https://github.com/Codivores/tutorial-laravel-twill-inertia-vue3-vite-tailwind))
 * [Step by step - Creating a Twill app](https://spectrum.chat/twill/tips-and-tricks/step-by-step-creating-a-twill-app~ac9bd7f7-d1e3-46a8-8e6f-6075d92cdac7) ([Source Code](https://github.com/sauron/my-twill-blog))
 
-#### Recipes
+#### Block Editor
 
 * [Adding a custom block to Twill Admin View with VueJS](https://spectrum.chat/twill/tips-and-tricks/adding-a-custom-block-to-twill-admin-view-with-vuejs~028d79b1-b3cd-4fb7-a89c-ce64af7be4af)
-* [Adding custom user roles and permissions on Twill 2.x](https://gist.github.com/pboivin/b81afbc9baa4e8a85a3982b83c3dc88a)
-* [Building a multilingual site with Twill and Laravel Localization](https://gist.github.com/pboivin/62b2c5b6e723ceef54aedf120154e269)
-* [Enable hierarchical/nested sorting on a Twill module](https://gist.github.com/chrispymm/255b680f4c792c6fc4781d3cc2ee6a67)
-* [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
-* [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
-* [Manage frontend user profiles from Twill](https://gist.github.com/pboivin/d20d23ae130ea9a112ee49dd98f00239)
-* [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
 * [Prefill a block editor from a selection of templates](https://gist.github.com/pboivin/c87f91584c454cd369b988810f6453d7)
-* [Support nested URLs for nested modules](https://gist.github.com/chrispymm/dfd6521af819deb41170282affe1e0b5)
+
+#### Dev Tools
+
 * [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
 * [Twill vscode snippets](https://gist.github.com/ferpetrelli/58e9e95173111c126d6da3062461b930)
+
+#### Form Fields
+
+* [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
+* [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
+
+#### Modules
+
+* [Enable hierarchical/nested sorting on a Twill module](https://gist.github.com/chrispymm/255b680f4c792c6fc4781d3cc2ee6a67)
+* [Support nested URLs for nested modules](https://gist.github.com/chrispymm/dfd6521af819deb41170282affe1e0b5)
+
+#### Multilingual
+
+* [Building a multilingual site with Twill and Laravel Localization](https://gist.github.com/pboivin/62b2c5b6e723ceef54aedf120154e269)
+
+#### Users & Permissions
+
+* [Adding custom user roles and permissions on Twill 2.x](https://gist.github.com/pboivin/b81afbc9baa4e8a85a3982b83c3dc88a)
+* [Manage frontend user profiles from Twill](https://gist.github.com/pboivin/d20d23ae130ea9a112ee49dd98f00239)
+* [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
 
 ## Starter Projects
 
