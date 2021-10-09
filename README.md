@@ -94,6 +94,10 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 * [Twill Transformers](https://github.com/area17/twill-transformers) - A base Transformer class and a series of traits to generate view data for your Twill app
 
+#### Form Fields
+
+* [Twill Form Templates](https://github.com/pboivin/twill-form-templates) - A template field for Twill Modules 
+
 #### Image Processing
 
 * [Twill Image](https://github.com/area17/twill-image) - Leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images
