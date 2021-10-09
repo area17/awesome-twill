@@ -97,6 +97,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 #### Form Fields
 
 * [Twill Form Templates](https://github.com/pboivin/twill-form-templates) - A template field for Twill Modules 
+* [Twill FormField partials](https://github.com/sauron/twill-form-partials) - A set of FormFields for Twill CMS in order to standardise it and speed up the Development time
 
 #### Image Processing
 
