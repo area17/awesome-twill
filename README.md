@@ -47,6 +47,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
 * [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
 * [Prefill a block editor from a selection of templates](https://gist.github.com/pboivin/c87f91584c454cd369b988810f6453d7)
+* [Vue.js Workflow - Creating custom components, form fields and blocks in Twill](https://gist.github.com/pboivin/19d49cbb3c0a6c5c06469117597cc0f7)
 
 #### Modules
 
