@@ -36,11 +36,6 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Build a CMS Stack with Laravel, Twill, Inertia, Vue 3, Vite, Tailwind](https://tech.codivores.com/series/laravel-twill-inertia) ([Source Code](https://github.com/Codivores/tutorial-laravel-twill-inertia-vue3-vite-tailwind))
 * [Step by step - Creating a Twill app](https://spectrum.chat/twill/tips-and-tricks/step-by-step-creating-a-twill-app~ac9bd7f7-d1e3-46a8-8e6f-6075d92cdac7) ([Source Code](https://github.com/sauron/my-twill-blog))
 
-#### Block Editor
-
-* [Adding a custom block to Twill Admin View with VueJS](https://spectrum.chat/twill/tips-and-tricks/adding-a-custom-block-to-twill-admin-view-with-vuejs~028d79b1-b3cd-4fb7-a89c-ce64af7be4af)
-* [Prefill a block editor from a selection of templates](https://gist.github.com/pboivin/c87f91584c454cd369b988810f6453d7)
-
 #### Dev Tools
 
 * [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
@@ -48,8 +43,10 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 #### Form Fields
 
+* [Adding a custom block to Twill Admin View with VueJS](https://spectrum.chat/twill/tips-and-tricks/adding-a-custom-block-to-twill-admin-view-with-vuejs~028d79b1-b3cd-4fb7-a89c-ce64af7be4af)
 * [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
 * [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
+* [Prefill a block editor from a selection of templates](https://gist.github.com/pboivin/c87f91584c454cd369b988810f6453d7)
 
 #### Modules
 
