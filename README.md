@@ -66,8 +66,8 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ## Starter Projects
 
-* [CWS Twill Base Project](https://github.com/cwsdigital/cws-twill-base)
-* [Twill Boilerplate](https://github.com/croustille-io/twill-boilerplate)
+* [croustille-io/twill-boilerplate](https://github.com/croustille-io/twill-boilerplate)
+* [cwsdigital/cws-twill-base](https://github.com/cwsdigital/cws-twill-base)
 
 ## Open Source Twill Projects
 
