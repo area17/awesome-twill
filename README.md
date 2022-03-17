@@ -87,6 +87,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Countries Capsule](https://github.com/area17/twill-capsule-countries) - A Twill Capsule to help you manage a list of Countries
 * [Homepages Capsule](https://github.com/area17/twill-capsule-homepages) - A Twill Capsule to create a Home page for your website
 * [Twill Capsules Base](https://github.com/area17/twill-capsule-base) - A series of opinionated base classes and helpers for faster application bootstrapping using Twill and Capsules
+* [Twill Redirects](https://github.com/Sevendays-Digital/twill-redirects) - Manage redirects in Twill
 
 #### Commands
 
