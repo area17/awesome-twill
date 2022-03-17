@@ -36,6 +36,10 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Build a CMS Stack with Laravel, Twill, Inertia, Vue 3, Vite, Tailwind](https://tech.codivores.com/series/laravel-twill-inertia) ([Source Code](https://github.com/Codivores/tutorial-laravel-twill-inertia-vue3-vite-tailwind))
 * [Step by step - Creating a Twill app](https://spectrum.chat/twill/tips-and-tricks/step-by-step-creating-a-twill-app~ac9bd7f7-d1e3-46a8-8e6f-6075d92cdac7) ([Source Code](https://github.com/sauron/my-twill-blog))
 
+#### Data Export
+
+* [Twill CMS data export from custom page](https://blog.izetmulalic.com/twill-cms-excel-export-custom-pages/)
+
 #### Dev Tools
 
 * [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
@@ -64,10 +68,6 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [How to use Laravel’s default user table for Twill CMS authentication](https://medium.com/@ryanlebel/how-to-use-laravels-default-user-table-for-twill-cms-authentication-5d0fd5abf0d7)
 * [Manage frontend user profiles from Twill](https://gist.github.com/pboivin/d20d23ae130ea9a112ee49dd98f00239)
 * [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
-
-#### Data export
-
-* [Twill CMS data export from custom page](https://blog.izetmulalic.com/twill-cms-excel-export-custom-pages/)
 
 ## Starter Projects
 
