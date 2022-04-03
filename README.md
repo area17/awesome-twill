@@ -85,6 +85,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 * [Cities Capsule](https://github.com/area17/twill-capsule-cities) - A Twill Capsule to help you manage a list of Cities
 * [Countries Capsule](https://github.com/area17/twill-capsule-countries) - A Twill Capsule to help you manage a list of Countries
+* [Feature Flags](https://github.com/area17/twill-capsule-feature-flags) - This Capsule allows you to easily enable/disable features on your application
 * [Homepages Capsule](https://github.com/area17/twill-capsule-homepages) - A Twill Capsule to create a Home page for your website
 * [Twill Capsules Base](https://github.com/area17/twill-capsule-base) - A series of opinionated base classes and helpers for faster application bootstrapping using Twill and Capsules
 * [Twill Redirects](https://github.com/Sevendays-Digital/twill-redirects) - Manage redirects in Twill
