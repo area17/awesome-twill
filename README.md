@@ -42,14 +42,12 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 #### Dev Tools
 
-* [Twill Laravel 7 Setup](https://gist.github.com/mcylinder/58aceff97e5c3bb3bafbc2abeea9a7a4)
 * [Twill vscode snippets](https://gist.github.com/ferpetrelli/58e9e95173111c126d6da3062461b930)
 
 #### Form Fields
 
 * [Adding a custom block to Twill Admin View with VueJS](https://spectrum.chat/twill/tips-and-tricks/adding-a-custom-block-to-twill-admin-view-with-vuejs~028d79b1-b3cd-4fb7-a89c-ce64af7be4af)
 * [Enable media upload on settings pages](https://gist.github.com/chrispymm/9a2542a91732c8b65cebf3ca5ad0d6b0)
-* [Form repeater that persists as JSON](https://gist.github.com/mcylinder/6ff7876f29cce8a23b81f3ea80e02a23)
 * [Prefill a block editor from a selection of templates](https://gist.github.com/pboivin/c87f91584c454cd369b988810f6453d7)
 * [Vue.js Workflow - Creating custom components, form fields and blocks in Twill](https://gist.github.com/pboivin/19d49cbb3c0a6c5c06469117597cc0f7)
 
