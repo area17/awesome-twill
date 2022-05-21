@@ -98,6 +98,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 #### API & Data Transformation
 
 * [Twill API](https://github.com/area17/twill-api) - Provide a read-only API to Twill models and entities
+* [Twill GraphQL](https://github.com/kallefrombosnia/twill-graphql) - Provides GraphQL wrapper for Twill CMS
 * [Twill Transformers](https://github.com/area17/twill-transformers) - A base Transformer class and a series of traits to generate view data for your Twill app
 
 #### Form Fields
