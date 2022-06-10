@@ -75,6 +75,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ## Open Source Twill Projects
 
+* [Art Institute of Chicago](https://www.artic.edu/) ([Source Code](https://github.com/art-institute-of-chicago/artic.edu)) - Website of the Art Institute of Chicago
 * [Felix Online](https://felixonline.co.uk/) ([Source Code](https://github.com/FelixOnline/xelif)) - The student newspaper of Imperial College London
 * [Timeline of African American Music](https://timeline.carnegiehall.org/) ([Source Code](https://github.com/AssembleStudioOrg/cms.timeline.carnegiehall.org)) - "Timeline of African American Music" project by Carnegie Hall
 
