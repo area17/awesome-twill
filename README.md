@@ -77,6 +77,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 * [Art Institute of Chicago](https://www.artic.edu/) ([Source Code](https://github.com/art-institute-of-chicago/artic.edu)) - Website of the Art Institute of Chicago
 * [Felix Online](https://felixonline.co.uk/) ([Source Code](https://github.com/FelixOnline/xelif)) - The student newspaper of Imperial College London
+* [Service de Défense Incendie et Secours de Terre-Sainte](https://www.sdis-ts.ch) ([Source Code](https://github.com/markcameron/sdis-terre-sainte)) - Website of the Service de Défense Incendie et Secours de Terre-Sainte (Twill v3)
 * [Timeline of African American Music](https://timeline.carnegiehall.org/) ([Source Code](https://github.com/AssembleStudioOrg/cms.timeline.carnegiehall.org)) - "Timeline of African American Music" project by Carnegie Hall
 
 ## Packages
