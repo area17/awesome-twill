@@ -65,7 +65,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 * [Adding custom user roles and permissions on Twill 2.x](https://gist.github.com/pboivin/b81afbc9baa4e8a85a3982b83c3dc88a)
 * [How to use Laravel’s default user table for Twill CMS authentication](https://medium.com/@ryanlebel/how-to-use-laravels-default-user-table-for-twill-cms-authentication-5d0fd5abf0d7)
 * [Manage frontend user profiles from Twill](https://gist.github.com/pboivin/d20d23ae130ea9a112ee49dd98f00239)
-* [Multi tenant setup](https://spectrum.chat/twill/tips-and-tricks/multi-tenant-setup~85f81567-0570-4989-9d63-e59588aed6c0)
+* [Multi tenant setup](https://twillcms.com/docs/getting-started/configuration.html#content-multiple-subdomains-cms-routing)
 
 ## Starter Projects
 
