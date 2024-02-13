@@ -119,7 +119,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 #### Integrations
 
-  * [Horizon and Authentication](https://alfrednutile.info/posts/twillcms-and-horizon)
+  * [Horizon and Authentication](https://alfrednutile.info/twillcms-and-horizon)
 
 
 ## Contributing
