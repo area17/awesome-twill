@@ -112,6 +112,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 #### Image Processing
 
 * [Twill Image](https://github.com/area17/twill-image) - Leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images
+* [Twill Croppa](https://github.com/c2h6-383/twill-croppa) - Use the advantages of [Croppa](https://github.com/BKWLD/croppa) in your Twill application, provided by a custom image rendering service
 
 #### Metadata & SEO
 
